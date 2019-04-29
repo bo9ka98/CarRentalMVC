@@ -4,7 +4,7 @@ namespace CarRentalMVC.Models.Entity
 {
     public class Client : Man
     {
-        int Id { get; set; }
-        int DriverLicense { get; set; }
+        public int Id { get; set; }
+        public int DriverLicense { get; set; }
     }
 }

@@ -4,9 +4,9 @@ namespace CarRentalMVC.Models.Entity
 {
     public class Man
     {
-        string Name { get; set; }
-        string Surname { get; set; }
+        public string Name { get; set; }
+        public string Surname { get; set; }
 
-        DateTime DateBirth { get; set; }
+        public DateTime DateBirth { get; set; }
     }
 }

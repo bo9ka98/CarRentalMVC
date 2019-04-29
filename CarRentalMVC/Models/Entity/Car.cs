@@ -4,8 +4,8 @@ namespace CarRentalMVC.Models.Entity
 {
     public class Car
     {
-        string BrandName { get; set; }
-        string ModelName { get; set; }
-        string Class { get; set; }
+        public string BrandName { get; set; }
+        public string ModelName { get; set; }
+        public string Class { get; set; }
     }
 }

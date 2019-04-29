@@ -5,13 +5,13 @@ namespace CarRentalMVC.Models.Entity
 {
     public class Order
     {
-        int Id { get; set; }
-        int ClientId { get; set; }
-        DateTime DateStart { get; set; }
-        DateTime DataFinish { get; set; }
-        string Remarks { get; set; }
+        public int Id { get; set; }
+        public int ClientId { get; set; }
+        public DateTime DateStart { get; set; }
+        public DateTime DataFinish { get; set; }
+        public string Remarks { get; set; }
 
-        List<Product> CarId { get; set; }
+        public List<Product> CarId { get; set; }
 
     }
 }

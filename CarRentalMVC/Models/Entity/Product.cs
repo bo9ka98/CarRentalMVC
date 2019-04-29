@@ -1,9 +1,9 @@
 ﻿namespace CarRentalMVC.Models.Entity
 {
-    internal class Product : Car
+    public class Product : Car
     {
-        int Id { get; set; }
-        int YearProduction { get; set; }
-        int RegistrNumber { get; set; }
+        public int Id { get; set; }
+        public int YearProduction { get; set; }
+        public int RegistrNumber { get; set; }
     }
 }
