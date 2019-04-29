@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace CarRentalMVC.Models
+namespace CarRentalMVC.Models.Entity
 {
     public class Man
     {

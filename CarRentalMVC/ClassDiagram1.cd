@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="CarRentalMVC.Models.Entity.Product">
+    <Position X="4.25" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ACACAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAEAAAAAAA=</HashCode>
+      <FileName>Models\Entity\Product.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CarRentalMVC.Models.Entity.Car">
+    <Position X="4.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAIAAAAAAAAAAABAAAAAAAgAAAA=</HashCode>
+      <FileName>Models\Entity\Car.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CarRentalMVC.Models.Entity.Client">
+    <Position X="0.5" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAACAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAEAAAAAA=</HashCode>
+      <FileName>Models\Entity\Client.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CarRentalMVC.Models.Entity.Man">
+    <Position X="0.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAQAAAAAAAAAAAAQABAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Models\Entity\Man.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CarRentalMVC.Models.Entity.Order">
+    <Position X="2.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>BAACAAAAAIAAAAAAiAAAAACAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Models\Entity\Order.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

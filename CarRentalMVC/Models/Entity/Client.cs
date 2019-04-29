@@ -1,6 +1,6 @@
 ﻿
 
-namespace CarRentalMVC.Models
+namespace CarRentalMVC.Models.Entity
 {
     public class Client : Man
     {
